@@ -1,0 +1,1 @@
+Kadane's Algorithm is a famous dynamic programming technique used to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers (both positive and negative). It runs in O(n) time, making it very efficient.
